@@ -321,15 +321,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 * [Leaflet](https://leafletjs.com/) & [React Leaflet](https://react-leaflet.js.org/) for mapping
 * [Tailwind CSS](https://tailwindcss.com/) for utility-first design
 
----
-
-## 📞 Support
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-🐛 **Issues:** [GitHub Issues](https://github.com/your-username/earthquake-visualizer/issues)
-💬 **Discussions:** [GitHub Discussions](https://github.com/your-username/earthquake-visualizer/discussions)
-
----
 
 <div align="center">
 
